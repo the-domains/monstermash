@@ -1,0 +1,28 @@
+name: monstermash
+favicon: null
+layout_spectrum: 0.9673539798241109
+typography_spectrum: 0.3234116598032415
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.3490577591583133
+  lightness: 0.3667295384220779
+  saturation: 0.9580687291454524
+  rhythmicContrast: 0.8070896724238992
+purpose: []
