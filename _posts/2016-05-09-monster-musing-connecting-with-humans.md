@@ -4,13 +4,14 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: ''
-datePublished: '2016-05-09T23:09:17.095Z'
-dateModified: '2016-05-09T23:08:41.957Z'
+description: monster
+datePublished: '2016-05-09T23:14:39.875Z'
+dateModified: '2016-05-09T23:14:32.827Z'
 title: Monster Musing - Connecting with humans
 author:
   - name: ''
     url: ''
+sourcePath: _posts/2016-05-09-monster-musing-connecting-with-humans.md
 authors: []
 publisher:
   name: null
@@ -18,7 +19,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-09-monster-musing-connecting-with-humans.md
 url: monster-musing-connecting-with-humans/index.html
 _type: Article
 
